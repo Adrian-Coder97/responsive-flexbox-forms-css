@@ -1,7 +1,17 @@
 # responsive-flexbox-forms-css
 Realizando unas cajas de precios responsivas mediante el uso de flexbox
 
+-Pantalla Completa: 
 
+![](images/full.png)
+
+-Pantalla en un tamaño menor o igual a 1070px: 
+
+![](images/1070.png)
+
+-Pantalla en un tamaño menor o igual a 600px: 
+
+![](images/600.png)
 
 1. Codigo HTML para realizar cada caja de precios: 
 
